@@ -1,0 +1,5 @@
+uploads/              # Thư mục chứa ảnh tải lên
+database/             # Thư mục SQL (nếu cần bảo mật)
+*.log                 # File log
+*.DS_Store            # File hệ thống MacOS
+.env                  # File chứa thông tin bảo mật

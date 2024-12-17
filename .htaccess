@@ -1,0 +1,8 @@
+# Tìm index.php làm trang chính
+DirectoryIndex index.php
+
+# Rewrite URL thân thiện
+RewriteEngine On
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^(.*)$ index.php [L]
