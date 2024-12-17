@@ -1,10 +1,10 @@
 <?php
 function connectdb() {
     // Thông tin kết nối MySQL Azure
-    $servername = "xfashion2024-server.mysql.database.azure.com"; // Tên server Azure MySQL
-    $username = "yxcruhxtfd"; // Username từ Azure
-    $password = "TmRwo$3IAdw6QuWz"; // Password từ Azure
-    $dbname = "fashion"; // Tên database của bạn
+    $servername = "xfashion2024dec.mysql.database.azure.com"; // Tên server Azure MySQL
+    $username = "tringo"; // Username từ Azure
+    $password = "Mtn@1234"; // Password từ Azure
+    $dbname = "xfashion2024dec"; // Tên database của bạn
     $port = 3306; // Cổng mặc định MySQL
 
     try {
