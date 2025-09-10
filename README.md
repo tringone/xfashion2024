@@ -1,5 +1,4 @@
 # Project: X-Fashion Website
-Link report: https://uithcm-my.sharepoint.com/:w:/g/personal/21522705_ms_uit_edu_vn/Edl-DUOHealBs47PZ0mfMVoBGzXhqTExXxKXSNCIDK22YQ?e=23cpd9
 >Tech stacks:
 * Front-end: 
   - HTML, CSS, JS
